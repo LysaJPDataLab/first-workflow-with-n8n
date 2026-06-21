@@ -1,7 +1,5 @@
 MANUAL DE REFERÊNCIA - ELEVADOR DE SERVIÇO AVANTI SHARK L02
 
-DOCUMENTO DE CONSULTA PARA AGENTE DE IA
-
 ========================================
 IDENTIFICAÇÃO DO EQUIPAMENTO
 ============================
