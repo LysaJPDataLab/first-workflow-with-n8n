@@ -1,0 +1,273 @@
+MANUAL DE REFERÊNCIA - ELEVADOR DE SERVIÇO AVANTI SHARK L02
+
+DOCUMENTO DE CONSULTA PARA AGENTE DE IA
+
+========================================
+IDENTIFICAÇÃO DO EQUIPAMENTO
+============================
+
+Fabricante: Avanti Wind Systems Technology, S.L.
+Equipamento: Elevador de Serviço Avanti
+Modelo: Shark L02 CE
+Aplicação: Transporte de pessoas, ferramentas e peças dentro de aerogeradores.
+
+Capacidade nominal:
+
+* 240 kg
+* Máximo de 2 pessoas
+
+Velocidade:
+
+* 18 m/min (50 Hz)
+* 21,6 m/min (60 Hz)
+
+Altura máxima:
+
+* Até 160 metros (dependendo da configuração)
+
+Peso aproximado da cabine:
+
+* 186 kg
+
+Alimentação elétrica:
+
+* 400 V trifásico + N + PE
+* 690 V trifásico + PE
+
+Temperatura operacional:
+-15°C até +60°C
+
+========================================
+FINALIDADE
+==========
+
+O elevador de serviço Shark L02 é destinado ao transporte de técnicos, ferramentas e peças sobressalentes entre as plataformas internas de aerogeradores.
+
+Também permite acesso às plataformas intermediárias para inspeções e manutenção.
+
+Uso restrito a pessoas autorizadas e treinadas.
+
+========================================
+REGRAS DE SEGURANÇA
+===================
+
+Somente usuários treinados e certificados podem operar o equipamento.
+
+É obrigatório utilizar:
+
+* Capacete
+* Arnês
+* Trava-queda
+* Absorvedor de energia
+* Posicionadores
+* Meio de comunicação bidirecional
+
+Não operar:
+
+* Sob efeito de álcool ou drogas
+* Durante incêndio na turbina
+* Quando a turbina estiver gerando energia
+* Com ventos superiores a 25 m/s
+* Em atmosferas explosivas
+
+Usuários devem permanecer conectados aos pontos de ancoragem da cabine durante toda a operação.
+
+========================================
+COMPONENTES PRINCIPAIS
+======================
+
+Cabine:
+
+* Porta deslizante
+* Janelas de manutenção
+* Iluminação interna
+* Pontos de ancoragem
+
+Sistema de tração:
+
+* Motor
+* Caixa de velocidade
+* Freio eletromagnético
+* Freio centrífugo
+* Dispositivo de detecção de sobrecarga
+
+Sistema de segurança:
+
+* Dispositivo trava-queda
+* Detector de obstrução superior
+* Detector de obstrução inferior
+* Interruptor de limite superior
+* Sistema de bloqueio de portas
+
+========================================
+PORTA DA CABINE
+===============
+
+A porta possui bloqueio de segurança.
+
+Funções:
+
+* Impede movimentação com porta aberta.
+* Permite abertura apenas quando a cabine está nivelada com a plataforma.
+
+A liberação manual da porta deve ser utilizada apenas em evacuação ou resgate.
+
+========================================
+SISTEMA DE TRAÇÃO
+=================
+
+Responsável pela movimentação da cabine ao longo do cabo de tração.
+
+Componentes:
+
+* Motor elétrico
+* Freio eletromagnético
+* Freio centrífugo
+* Caixa de redução
+* Roldana de tração
+* Detector de sobrecarga
+
+Em caso de falta de energia:
+
+* O freio eletromagnético para automaticamente a cabine.
+
+Descida manual:
+
+* Possível através da liberação manual do freio eletromagnético.
+* O freio centrífugo limita a velocidade da descida.
+
+========================================
+SOBRECARGA
+==========
+
+O detector de sobrecarga impede a subida da cabine quando a carga máxima é excedida.
+
+Quando ocorre sobrecarga:
+
+* O sistema interrompe o funcionamento.
+* Um aviso sonoro ou luminoso é acionado.
+
+Capacidade máxima:
+240 kg ou 2 pessoas.
+
+========================================
+DISPOSITIVO TRAVA-QUEDA
+=======================
+
+Função:
+Parar automaticamente a cabine em caso de:
+
+* Rompimento do cabo de tração
+* Falha do sistema de tração
+* Excesso de velocidade de descida
+
+Funcionamento:
+
+* Monitora o cabo de segurança.
+* Utiliza sistema centrífugo para detectar velocidade excessiva.
+* Aciona garras mecânicas que travam o cabo de segurança.
+
+Pode ser acionado manualmente por alavanca.
+
+Pode ser desativado manualmente apenas quando o cabo de segurança não estiver tensionado.
+
+Indicador vermelho na cabine sinaliza trava-queda acionado.
+
+========================================
+CONTROLES DA CABINE
+===================
+
+Botões internos:
+
+* UP (Subir)
+* DOWN (Descer)
+* Parada de emergência
+
+Botões externos:
+
+* UP
+* DOWN
+* Parada de emergência
+
+Os comandos internos exigem acionamento contínuo.
+
+========================================
+INDICADORES LUMINOSOS
+=====================
+
+Verde:
+
+* Elevador pronto para operação
+* Cabine nivelada na plataforma
+
+Vermelho:
+
+* Trava-queda acionado
+
+========================================
+INSPEÇÃO DIÁRIA
+===============
+
+Antes de utilizar:
+
+1. Verificar integridade geral da cabine.
+2. Verificar cabos de tração e segurança.
+3. Verificar funcionamento da porta.
+4. Verificar iluminação interna.
+5. Verificar botões de emergência.
+6. Verificar indicadores luminosos.
+7. Verificar pontos de ancoragem.
+8. Verificar funcionamento dos dispositivos de segurança.
+9. Verificar ausência de danos visíveis.
+
+Caso seja identificado qualquer defeito:
+
+* Retirar o equipamento de operação.
+* Informar imediatamente o responsável.
+
+========================================
+EMERGÊNCIAS
+===========
+
+Falha de energia:
+
+* Utilizar iluminação de emergência.
+* Executar procedimento de descida manual.
+
+Trava-quedas acionado:
+
+* Identificar causa do acionamento.
+* Não reutilizar o equipamento sem inspeção.
+
+Incêndio na turbina:
+
+* Não utilizar o elevador.
+
+========================================
+RESTRIÇÕES IMPORTANTES
+======================
+
+Não transportar carga acima do limite.
+
+Não modificar componentes.
+
+Não utilizar peças não originais.
+
+Não utilizar para transporte externo.
+
+Não permitir acesso de pessoas não autorizadas.
+
+========================================
+DADOS TÉCNICOS RESUMIDOS
+========================
+
+Modelo: Shark L02 CE
+Capacidade: 240 kg
+Pessoas: 2
+Velocidade: 18 m/min ou 21,6 m/min
+Altura máxima: 160 m
+Peso da cabine: 186 kg
+Temperatura operacional: -15°C a +60°C
+Vida útil projetada: 20 anos
+
+FIM DO DOCUMENTO
