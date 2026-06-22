@@ -1,271 +1,270 @@
-MANUAL DE REFERÊNCIA - ELEVADOR DE SERVIÇO AVANTI SHARK L02
+# ELEVADOR DE SERVIÇO AVANTI SHARK L02 CE
 
-========================================
-IDENTIFICAÇÃO DO EQUIPAMENTO
-============================
+## VISÃO GERAL
 
-Fabricante: Avanti Wind Systems Technology, S.L.
-Equipamento: Elevador de Serviço Avanti
+Fabricante: Avanti Wind Systems Technology S.L.
 Modelo: Shark L02 CE
-Aplicação: Transporte de pessoas, ferramentas e peças dentro de aerogeradores.
+Aplicação: Transporte vertical de pessoas, ferramentas e peças no interior de aerogeradores.
 
 Capacidade nominal:
+240 kg
 
-* 240 kg
-* Máximo de 2 pessoas
+Número máximo de ocupantes:
+2 pessoas
 
 Velocidade:
+18 m/min (50 Hz)
+21,6 m/min (60 Hz)
 
-* 18 m/min (50 Hz)
-* 21,6 m/min (60 Hz)
-
-Altura máxima:
-
-* Até 160 metros (dependendo da configuração)
-
-Peso aproximado da cabine:
-
-* 186 kg
-
-Alimentação elétrica:
-
-* 400 V trifásico + N + PE
-* 690 V trifásico + PE
+Vida útil:
+20 anos
 
 Temperatura operacional:
--15°C até +60°C
+-15°C a +60°C
 
-========================================
-FINALIDADE
-==========
+--------------------------------------------------
 
-O elevador de serviço Shark L02 é destinado ao transporte de técnicos, ferramentas e peças sobressalentes entre as plataformas internas de aerogeradores.
+## FINALIDADE
 
-Também permite acesso às plataformas intermediárias para inspeções e manutenção.
+O elevador é utilizado para:
 
-Uso restrito a pessoas autorizadas e treinadas.
+- Transporte de técnicos
+- Transporte de ferramentas
+- Transporte de peças sobressalentes
+- Acesso às plataformas intermediárias
+- Apoio a inspeções
+- Apoio a manutenção
 
-========================================
-REGRAS DE SEGURANÇA
-===================
+--------------------------------------------------
 
-Somente usuários treinados e certificados podem operar o equipamento.
+## COMPONENTES PRINCIPAIS
 
-É obrigatório utilizar:
+Cabine
+Sistema de tração
+Dispositivo trava-quedas
+Sistema de orientação
+Sistema de controle
+Sistema de segurança
+Sistema de gestão de cabos
+Sistema de bloqueio de grades
 
-* Capacete
-* Arnês
-* Trava-queda
-* Absorvedor de energia
-* Posicionadores
-* Meio de comunicação bidirecional
+--------------------------------------------------
 
-Não operar:
-
-* Sob efeito de álcool ou drogas
-* Durante incêndio na turbina
-* Quando a turbina estiver gerando energia
-* Com ventos superiores a 25 m/s
-* Em atmosferas explosivas
-
-Usuários devem permanecer conectados aos pontos de ancoragem da cabine durante toda a operação.
-
-========================================
-COMPONENTES PRINCIPAIS
-======================
-
-Cabine:
-
-* Porta deslizante
-* Janelas de manutenção
-* Iluminação interna
-* Pontos de ancoragem
-
-Sistema de tração:
-
-* Motor
-* Caixa de velocidade
-* Freio eletromagnético
-* Freio centrífugo
-* Dispositivo de detecção de sobrecarga
-
-Sistema de segurança:
-
-* Dispositivo trava-queda
-* Detector de obstrução superior
-* Detector de obstrução inferior
-* Interruptor de limite superior
-* Sistema de bloqueio de portas
-
-========================================
-PORTA DA CABINE
-===============
-
-A porta possui bloqueio de segurança.
-
-Funções:
-
-* Impede movimentação com porta aberta.
-* Permite abertura apenas quando a cabine está nivelada com a plataforma.
-
-A liberação manual da porta deve ser utilizada apenas em evacuação ou resgate.
-
-========================================
-SISTEMA DE TRAÇÃO
-=================
-
-Responsável pela movimentação da cabine ao longo do cabo de tração.
-
-Componentes:
-
-* Motor elétrico
-* Freio eletromagnético
-* Freio centrífugo
-* Caixa de redução
-* Roldana de tração
-* Detector de sobrecarga
-
-Em caso de falta de energia:
-
-* O freio eletromagnético para automaticamente a cabine.
-
-Descida manual:
-
-* Possível através da liberação manual do freio eletromagnético.
-* O freio centrífugo limita a velocidade da descida.
-
-========================================
-SOBRECARGA
-==========
-
-O detector de sobrecarga impede a subida da cabine quando a carga máxima é excedida.
-
-Quando ocorre sobrecarga:
-
-* O sistema interrompe o funcionamento.
-* Um aviso sonoro ou luminoso é acionado.
-
-Capacidade máxima:
-240 kg ou 2 pessoas.
-
-========================================
-DISPOSITIVO TRAVA-QUEDA
-=======================
+## SISTEMA DE TRAÇÃO
 
 Função:
-Parar automaticamente a cabine em caso de:
+Movimentar a cabine ao longo do cabo de tração.
 
-* Rompimento do cabo de tração
-* Falha do sistema de tração
-* Excesso de velocidade de descida
+Componentes:
+- Motor
+- Caixa de velocidade
+- Freio eletromagnético
+- Freio centrífugo
+- Roldana de tração
+- Detector de sobrecarga
 
-Funcionamento:
+Principais falhas:
+- Falha de alimentação
+- Sobrecarga
+- Falha do freio eletromagnético
+- Desgaste da roldana
 
-* Monitora o cabo de segurança.
-* Utiliza sistema centrífugo para detectar velocidade excessiva.
-* Aciona garras mecânicas que travam o cabo de segurança.
+Sintomas:
+- Cabine não sobe
+- Cabine não desce
+- Movimento irregular
+- Alarme de sobrecarga
 
-Pode ser acionado manualmente por alavanca.
+--------------------------------------------------
 
-Pode ser desativado manualmente apenas quando o cabo de segurança não estiver tensionado.
+## DISPOSITIVO TRAVA-QUEDAS
 
-Indicador vermelho na cabine sinaliza trava-queda acionado.
+Função:
+Impedir queda da cabine.
 
-========================================
-CONTROLES DA CABINE
-===================
+Atuação automática:
+- Rompimento do cabo de tração
+- Falha do sistema de tração
+- Excesso de velocidade
 
-Botões internos:
+Componentes:
+- Garras
+- Sistema centrífugo
+- Rolos de orientação
+- Janela de inspeção
+- Sistema amortecedor
 
-* UP (Subir)
-* DOWN (Descer)
-* Parada de emergência
+Indicador:
+Luz vermelha na cabine
 
-Botões externos:
+--------------------------------------------------
 
-* UP
-* DOWN
-* Parada de emergência
+## PORTA DA CABINE
 
-Os comandos internos exigem acionamento contínuo.
+Função:
+Permitir entrada e saída.
 
-========================================
-INDICADORES LUMINOSOS
-=====================
+Proteções:
+- Impede movimentação com porta aberta.
+- Permite abertura apenas em nível de plataforma.
 
-Verde:
+Liberação manual:
+Somente evacuação e resgate.
 
-* Elevador pronto para operação
-* Cabine nivelada na plataforma
+--------------------------------------------------
 
-Vermelho:
+## PONTOS DE ANCORAGEM
 
-* Trava-queda acionado
+Quantidade:
+2
 
-========================================
-INSPEÇÃO DIÁRIA
-===============
+Regra:
+Usuários devem permanecer conectados durante toda a utilização do elevador.
 
-Antes de utilizar:
+--------------------------------------------------
 
-1. Verificar integridade geral da cabine.
-2. Verificar cabos de tração e segurança.
-3. Verificar funcionamento da porta.
-4. Verificar iluminação interna.
-5. Verificar botões de emergência.
-6. Verificar indicadores luminosos.
-7. Verificar pontos de ancoragem.
-8. Verificar funcionamento dos dispositivos de segurança.
-9. Verificar ausência de danos visíveis.
+## ILUMINAÇÃO
 
-Caso seja identificado qualquer defeito:
+Modo normal:
+Alimentação da turbina.
 
-* Retirar o equipamento de operação.
-* Informar imediatamente o responsável.
+Modo emergência:
+Bateria interna.
 
-========================================
-EMERGÊNCIAS
-===========
+Falha:
+Utilizar lanterna auxiliar.
 
-Falha de energia:
+--------------------------------------------------
 
-* Utilizar iluminação de emergência.
-* Executar procedimento de descida manual.
+## INSPEÇÃO DIÁRIA
 
-Trava-quedas acionado:
+Verificar:
 
-* Identificar causa do acionamento.
-* Não reutilizar o equipamento sem inspeção.
+- Estrutura da cabine
+- Integridade da porta
+- Janelas de manutenção
+- Luzes
+- Botão de emergência
+- Cabos de tração
+- Cabo de segurança
+- Cabo de orientação
+- Sistema trava-quedas
+- Pontos de ancoragem
+- Sistema de tração
+- Indicadores luminosos
+- Sensores de obstrução
+- Guias de cabo
 
-Incêndio na turbina:
+Critério:
+Qualquer dano visível retira o equipamento de operação.
 
-* Não utilizar o elevador.
+--------------------------------------------------
 
-========================================
-RESTRIÇÕES IMPORTANTES
-======================
+## RESTRIÇÕES OPERACIONAIS
 
-Não transportar carga acima do limite.
+Não utilizar:
 
-Não modificar componentes.
+- Em caso de incêndio
+- Com a turbina gerando energia
+- Em atmosferas explosivas
+- Em ambiente externo
+- Com ventos superiores a 25 m/s
+- Acima de 240 kg
 
-Não utilizar peças não originais.
+--------------------------------------------------
 
-Não utilizar para transporte externo.
+## SOBRECARGA
 
-Não permitir acesso de pessoas não autorizadas.
+Limite:
+240 kg
 
-========================================
-DADOS TÉCNICOS RESUMIDOS
-========================
+Consequência:
+Bloqueio da subida.
 
-Modelo: Shark L02 CE
-Capacidade: 240 kg
-Pessoas: 2
-Velocidade: 18 m/min ou 21,6 m/min
-Altura máxima: 160 m
-Peso da cabine: 186 kg
-Temperatura operacional: -15°C a +60°C
-Vida útil projetada: 20 anos
+Indicação:
+Alarme sonoro e/ou luminoso.
 
-FIM DO DOCUMENTO
+--------------------------------------------------
+
+## DESCIDA MANUAL
+
+Quando utilizar:
+- Falha de energia
+- Emergência
+- Resgate
+
+Como funciona:
+Liberação manual do freio eletromagnético.
+
+Proteção:
+Freio centrífugo limita velocidade.
+
+--------------------------------------------------
+
+## TROUBLESHOOTING
+
+Sintoma:
+Cabine não sobe
+
+Possíveis causas:
+- Sobrecarga
+- Falha de alimentação
+- Porta aberta
+- Trava-quedas acionado
+
+-----------------------------------
+
+Sintoma:
+Cabine não desce
+
+Possíveis causas:
+- Falha do controle
+- Trava-quedas acionado
+- Obstrução
+
+-----------------------------------
+
+Sintoma:
+Indicador vermelho aceso
+
+Possível causa:
+Trava-quedas acionado
+
+Ação:
+Inspecionar antes de retornar à operação
+
+--------------------------------------------------
+
+## EPIs OBRIGATÓRIOS
+
+- Capacete
+- Arnês
+- Absorvedor de energia
+- Posicionador
+- Trava-quedas
+- Comunicação bidirecional
+
+--------------------------------------------------
+
+## RESUMO PARA O&M
+
+Capacidade:
+240 kg
+
+Máximo:
+2 pessoas
+
+Velocidade:
+18 ou 21,6 m/min
+
+Vento máximo:
+25 m/s
+
+Vida útil:
+20 anos
+
+Dispositivo crítico:
+Trava-quedas
+
+Principais inspeções:
+Cabos, freios, sensores, ancoragens e porta.
