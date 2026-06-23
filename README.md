@@ -107,3 +107,11 @@ O fluxo de ingestão consome automaticamente o manual técnico `avanti-shark-l02
 Este projeto foi desenvolvido como **prova de conceito** para a aplicação de Inteligência Artificial Generativa na manutenção industrial, utilizando o Elevador Avanti Shark L02 como ativo de referência.
 
 A solução comprova como a redução do tempo de busca por informações e a centralização do conhecimento podem apoiar ativamente técnicos de campo, diminuindo a dependência de documentação física e entregando diagnósticos baseados em dados reais de forma escalável.
+
+---
+
+# 🚀 Próximos Passos
+
+- [ ] Enriquecer o arquivo `avanti-shark-l02.txt` com mais dados extraídos do manual do equipamento.
+- [ ] Aprimorar o banco de dados para tornar a estrutura mais robusta em relação ao histórico das inspeções simuladas cadastradas.
+- [ ] Implementar a funcionalidade de "escrita", permitindo que o chatbot registre inspeções no banco de dados em nome dos inspetores autorizados.
