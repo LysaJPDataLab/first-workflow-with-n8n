@@ -59,7 +59,7 @@ Integra o modelo de chat do Cohere com a memória conversacional e a ferramenta 
 ## 3️⃣ Agente Completo: Integração Telegram + RAG + MySQL
 O fluxo final orquestra todas as ferramentas. O agente recebe a mensagem via Telegram, decide se deve consultar o Banco de Dados (MySQL) para dados históricos, ou a Vector Store para dados do manual, consolida a resposta e devolve ao usuário.
 
-![Workflow Completo](workflow-steps/n8n_Workflow-03_AI-Agent-to-Lift-Maintenance.PNG)
+![Workflow Completo](workflow-steps/n8n_Workflow-03_AI-Agent-for-Lift-Maintenance.PNG)
 
 ---
 
