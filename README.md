@@ -4,7 +4,7 @@ Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **
 
 A solução permite que técnicos, inspetores e operadores consultem informações em linguagem natural diretamente pelo Telegram, combinando documentação técnica, memória conversacional e dados estruturados armazenados em banco de dados.
 
-![Demonstração do Chatbot no Telegram](asset/Chatbot_Telegram.PNG)
+![Demonstração do Chatbot no Telegram](asset/Chatbot_Telegram.png)
 
 ---
 
