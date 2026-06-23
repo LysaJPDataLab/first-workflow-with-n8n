@@ -38,7 +38,7 @@ Permite acessar informações armazenadas no banco de dados:
 * Histórico de inspeções e não conformidades;
 * Ações corretivas e dados cadastrais.
 
-> **Exemplo:** *"Quem realizou a última inspeção e quais foram as não conformidades?"* (O agente mantém o contexto entre as perguntas).
+> **Exemplo:** *"Quantas inspeções foram realizadas e qual a data da última inspeção?"* (O agente mantém o contexto entre as perguntas).
 
 ---
 
