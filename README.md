@@ -1,4 +1,4 @@
-# 🤖 Lift Maintenance AI Assistant
+# 🤖 AI Assistant for Lift Maintenance
 
 Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **Cohere**, arquitetura **RAG (Retrieval-Augmented Generation)**, **MySQL** e **Telegram**, projetado para centralizar conhecimento técnico e operacional do **Elevador de Serviço Avanti Shark L02** em uma única interface conversacional.
 
