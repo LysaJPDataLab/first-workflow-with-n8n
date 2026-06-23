@@ -152,7 +152,6 @@ Telegram
 | n8n                 | Orquestração dos workflows          |
 | Cohere Chat Model   | Modelo de linguagem                 |
 | Cohere Embeddings   | Geração de embeddings               |
-| RAG                 | Recuperação de contexto documental  |
 | Simple Vector Store | Armazenamento vetorial              |
 | MySQL               | Armazenamento de dados estruturados |
 | Railway             | Hospedagem do banco de dados        |
