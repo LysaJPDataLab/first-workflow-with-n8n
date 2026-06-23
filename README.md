@@ -54,7 +54,7 @@ Coleta o documento técnico hospedado na pasta `/context` deste repositório, ge
 ## 2️⃣ Agente de IA Conversacional
 Integra o modelo de chat do Cohere com a memória conversacional e a ferramenta de busca vetorial.
 
-![Workflow do Agente RAG](workflow-steps/n8n_Workflow-02_AI_Agent-v01.PNG)
+![Workflow do Agente RAG](workflow-steps/n8n_Workflow-02_AI Agent-v01.PNG)
 
 ## 3️⃣ Agente Completo: Integração Telegram + RAG + MySQL
 O fluxo final orquestra todas as ferramentas. O agente recebe a mensagem via Telegram, decide se deve consultar o Banco de Dados (MySQL) para dados históricos, ou a Vector Store para dados do manual, consolida a resposta e devolve ao usuário.
