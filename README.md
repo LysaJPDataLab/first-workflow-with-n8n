@@ -12,8 +12,8 @@ A solução permite que técnicos, inspetores e operadores consultem informaçõ
 
 <table>
   <tr>
-    <td><img src="assets/Chatbot_Telegram.jpeg" alt="Demonstração do Chatbot no Telegram" width="100%"></td>
-    <td><img src="assets/Imagem2.jpeg" alt="Segunda Imagem" width="100%"></td>
+    <td><img src="assets/Chatbot_Telegram.jpeg" alt="Demonstração do Chatbot no Telegram 1" width="100%"></td>
+    <td><img src="assets/Chatbot_Telegram_1.jpeg" alt="Demonstração do Chatbot no Telegram 2" width="100%"></td>
   </tr>
 </table>
 
