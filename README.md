@@ -10,7 +10,7 @@ Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **
 
 A solução permite que técnicos, inspetores e operadores consultem informações em linguagem natural diretamente pelo Telegram, combinando documentação técnica, memória conversacional e dados estruturados armazenados em banco de dados.
 
-![Demonstração do Chatbot no Telegram](asset/Chatbot_Telegram.png)
+![Demonstração do Chatbot no Telegram](assets/Chatbot_Telegram.PNG)
 
 O bot está em execução e disponível para testes no Telegram. Sintam-se à vontade para interagir com a solução: [@liftmaintenance_bot](https://t.me/liftmaintenance_bot)
 
