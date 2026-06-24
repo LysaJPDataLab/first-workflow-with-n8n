@@ -71,17 +71,15 @@ O fluxo final orquestra todas as ferramentas. O agente recebe a mensagem via Tel
 
 ---
 
-# 🧠 Tecnologias Utilizadas
+# 🛠️ Tecnologias e Ferramentas
 
-| Tecnologia          | Finalidade                          |
-| ------------------- | ----------------------------------- |
-| **n8n**             | Orquestração dos workflows          |
-| **Cohere Chat**     | Modelo de linguagem (LLM) principal |
-| **Cohere Embeddings**| Geração de vetores para o RAG      |
-| **Vector Store**    | Armazenamento e busca semântica     |
-| **MySQL**           | Armazenamento de dados estruturados |
-| **Railway**         | Hospedagem do banco de dados        |
-| **Telegram API**    | Interface conversacional mobile     |
+| Categoria | Ferramenta / Serviço | Papel na Arquitetura |
+| :--- | :--- | :--- |
+| **Orquestração** | n8n | Integração do Agente de IA com as fontes de dados e controle de fluxo |
+| **Inteligência Artificial** | Cohere Chat & Embeddings | Raciocínio lógico do agente, interação e vetorização do manual |
+| **Banco de Dados** | MySQL | Armazenamento relacional do histórico de inspeções e operação |
+| **Infraestrutura** | Railway | Hospedagem em nuvem do banco de dados |
+| **Interface (Front-end)** | Telegram API | Canal de comunicação móvel com o usuário final |
 
 ---
 
