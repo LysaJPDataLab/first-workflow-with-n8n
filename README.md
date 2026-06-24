@@ -1,5 +1,11 @@
 # 🤖 AI Assistant for Lift Maintenance
 
+![Status](https://img.shields.io/badge/Status-Fase_de_Testes-yellow)
+![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37)
+![LLM](https://img.shields.io/badge/LLM-Cohere-3959A4)
+![Banco de Dados](https://img.shields.io/badge/Database-MySQL-4479A1)
+![Interface](https://img.shields.io/badge/Interface-Telegram-2CA5E0)
+
 Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **Cohere**, arquitetura **RAG (Retrieval-Augmented Generation)**, **MySQL** e **Telegram**, projetado para centralizar o conhecimento técnico e operacional do **Elevador de Serviço Avanti Shark L02** em uma única interface conversacional.
 
 A solução permite que técnicos, inspetores e operadores consultem informações em linguagem natural diretamente pelo Telegram, combinando documentação técnica, memória conversacional e dados estruturados armazenados em banco de dados.
