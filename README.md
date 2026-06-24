@@ -6,7 +6,7 @@
 ![Banco de Dados](https://img.shields.io/badge/Database-MySQL-4479A1)
 ![Interface](https://img.shields.io/badge/Interface-Telegram-2CA5E0)
 
-Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **Cohere**, arquitetura **RAG (Retrieval-Augmented Generation)**, **MySQL** e **Telegram**, projetado para centralizar o conhecimento técnico e operacional do **Elevador de Serviço Avanti Shark L02** em uma única interface conversacional.
+Assistente inteligente para manutenção industrial desenvolvido com **n8n**, **Cohere**, arquitetura **RAG (Retrieval-Augmented Generation)**, **MySQL** e **Telegram**, projetado para centralizar especificação técnica e histórico de manutenção de equipamentos em uma única interface conversacional. O equipamento de referência para este projeto foi o **Elevador de Serviço Avanti Shark L02**.
 
 A solução permite que técnicos, inspetores e operadores consultem informações em linguagem natural diretamente pelo Telegram, combinando documentação técnica, memória conversacional e dados estruturados armazenados em banco de dados.
 
@@ -18,7 +18,7 @@ O bot está em execução e disponível para testes no Telegram. Sintam-se à vo
 
 # 📌 Sobre o Projeto
 
-Em ambientes industriais, informações importantes costumam estar distribuídas entre manuais técnicos, relatórios de inspeção, planilhas e bancos de dados. Isso dificulta o acesso rápido ao conhecimento necessário para atividades de operação, manutenção e diagnóstico.
+Em ambientes industriais, informações importantes costumam estar distribuídas entre manuais técnicos, relatórios de inspeção, planilhas e bancos de dados. Isso fragmenta os dados dos equipamentos e aumenta o tempo para consulta do conhecimento necessário para atividades de operação, manutenção e diagnóstico.
 
 Este projeto foi desenvolvido para transformar essas fontes de informação em um assistente conversacional especializado, capaz de responder perguntas técnicas e operacionais de forma rápida, contextualizada e fundamentada em dados reais.
 
