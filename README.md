@@ -1,4 +1,4 @@
-# 🤖 AI Assistant for Lift Maintenance
+# 🤖 AI Agent for Lift Maintenance
 
 ![Status](https://img.shields.io/badge/Status-Fase_de_Testes-yellow)
 ![n8n](https://img.shields.io/badge/Workflow-n8n-FF6C37)
