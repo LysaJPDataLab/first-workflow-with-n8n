@@ -119,5 +119,5 @@ A solução comprova como a redução do tempo de busca por informações e a ce
 # 🚀 Próximos Passos
 
 - [ ] Enriquecer o arquivo `avanti-shark-l02.txt` com mais dados extraídos do manual do equipamento.
-- [ ] Aprimorar o banco de dados para tornar a estrutura mais robusta em relação aos equipamentos, com diferentes números de série, e ao histórico das inspeções simuladas cadastradas.
-- [ ] Implementar a funcionalidade de "escrita", permitindo que o chatbot registre inspeções no banco de dados em nome dos inspetores autorizados.
+- [ ] Aprimorar o banco de dados para tornar a estrutura mais robusta em relação aos equipamentos, com diferentes números de série, e ao histórico das inspeções simuladas cadastradas para testar perguntas sobre um elevador específico e confirmar a qualidade das respostas.
+- [ ] Implementar a funcionalidade de "escrita", permitindo que o chatbot registre inspeções diárias no banco de dados em nome dos inspetores autorizados.
