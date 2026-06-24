@@ -112,7 +112,7 @@ O fluxo de ingestão consome automaticamente o manual técnico `avanti-shark-l02
 # 🎯 Aplicação e Benefícios
 Este projeto foi desenvolvido como **prova de conceito** para a aplicação de Inteligência Artificial Generativa na manutenção industrial, utilizando o Elevador Avanti Shark L02 como ativo de referência.
 
-A solução comprova como a redução do tempo de busca por informações e a centralização do conhecimento podem apoiar ativamente técnicos de campo, diminuindo a dependência de documentação física e entregando diagnósticos baseados em dados reais de forma escalável.
+A solução comprova como a redução do tempo de busca por informações e a centralização do conhecimento podem apoiar ativamente técnicos de campo, diminuindo a dependência de documentação física e apoiando diagnósticos baseados em dados reais de forma escalável.
 
 ---
 
