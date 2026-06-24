@@ -12,7 +12,7 @@ A solução permite que técnicos, inspetores e operadores consultem informaçõ
 
 ![Demonstração do Chatbot no Telegram](asset/Chatbot_Telegram.png)
 
-O bot está em execução e disponível para testes no Telegram. Sintam-se à vontade para interagir com a solução: @liftmaintenance_bot
+O bot está em execução e disponível para testes no Telegram. Sintam-se à vontade para interagir com a solução: [@liftmaintenance_bot](https://t.me/liftmaintenance_bot)
 
 ---
 
