@@ -33,7 +33,7 @@ O sistema utiliza uma arquitetura híbrida que combina:
 
 # 🚀 Funcionalidades
 
-## 📖 Consulta à Documentação Técnica
+## Consulta à Documentação Técnica
 Permite realizar perguntas sobre:
 * Especificações técnicas e componentes do elevador;
 * Procedimentos operacionais e de descida manual;
@@ -41,7 +41,7 @@ Permite realizar perguntas sobre:
 
 > **Exemplo:** *"Qual a capacidade máxima do elevador?"*
 
-## 🛠️ Consulta de Dados Operacionais
+## Consulta de Dados Operacionais
 Permite acessar informações armazenadas no banco de dados:
 * Histórico de inspeções e não conformidades;
 * Ações corretivas e dados cadastrais.
