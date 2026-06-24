@@ -81,6 +81,8 @@ O fluxo final orquestra todas as ferramentas. O agente recebe a mensagem via Tel
 | **Infraestrutura** | Railway | Hospedagem em nuvem do banco de dados |
 | **Interface (Front-end)** | Telegram API | Canal de comunicação móvel com o usuário final |
 
+> **⚠️ Nota:** Para garantir a conformidade, a segurança da informação e as boas práticas de governança, todos os registros de inspeções e não conformidades apresentados neste repositório são estritamente fictícios (*mock data*). Os dados foram gerados sinteticamente com o propósito exclusivo de validar a arquitetura técnica da solução e homologar o fluxo de inteligência de dados, não representando operações ou eventos reais.
+
 ---
 
 # ⚙️ Como executar este projeto
